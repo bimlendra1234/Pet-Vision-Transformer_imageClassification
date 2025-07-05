@@ -1,4 +1,4 @@
-transformers
-torch
-gradio
+transformers==4.38.2
+torch==2.2.0
+gradio==4.15.0
 Pillow
